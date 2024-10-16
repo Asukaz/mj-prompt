@@ -1978,6 +1978,11 @@
                 "name": "subfeature1",
                 "caption": "subfeature1",
                 "image": ""
+            },
+            {
+                "name": "subfeature2",
+                "caption": "subfeature2",
+                "image": ""
             }
         ],
         "subfeature1": [
@@ -1985,6 +1990,14 @@
                 "name": "subsubfeature1",
                 "caption": "subsubfeature1",
                 "type": "subfeature1",
+                "image": "https://cdn.midjourney.com/u/02eb21ca-66ae-4164-b748-4162e606d619/1b8a760215a475f66c44b09a7a592fbafebaccc437ed742d54f9371c5042f73b.png"
+            }
+        ],
+        "subfeature2": [
+            {
+                "name": "subsubfeature2",
+                "caption": "subsubfeature2",
+                "type": "subfeature2",
                 "image": "https://cdn.midjourney.com/u/02eb21ca-66ae-4164-b748-4162e606d619/1b8a760215a475f66c44b09a7a592fbafebaccc437ed742d54f9371c5042f73b.png"
             }
         ]
