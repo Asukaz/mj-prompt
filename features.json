@@ -21,8 +21,8 @@
             { "name": "landscape", "caption": "风景",  "alias": "scenery,scenic", "image": "https://cdn.midjourney.com/70a33e7f-c20d-45e3-bfb3-e909f567ebfd/0_1_384_N.webp" },   
             { "name": "scene", "caption": "场景",  "alias": "scene","image": "https://cdn.midjourney.com/e0cc1d81-25ef-4a2b-9161-524d78245f81/0_2_384_N.webp"  },
 
-            { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1094550149797249024/tql_sofa_design_spinning_Geometry_space_planet_Ultra_high_quali_8022d3aa-c994-47ac-9197-7f3cf3a786be.png"  },  
-            { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png"  }
+            { "name": "object", "caption": "物体",   "alias": "object" , "image": "https://cdn.midjourney.com/8022d3aa-c994-47ac-9197-7f3cf3a786be/0_0.png"  },  
+            { "name": "nature", "caption": "自然",  "alias": "creature,plant and animal" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104245199049326693/luisD.TD_a_dog4k_076d79e0-ea71-4cde-bb00-a89251567a68.png?ex=67127bbb&is=67112a3b&hm=5a316e8271d7acdc4526d34dfd782e6ce70588fd064fc9d810e2acb4ed27c591&"  }
         ],
         "figure" : [
             { "name": "portrait",  "caption": "肖像",   "type" : "figure",  "alias": "portrait", "image":"https://cdn.midjourney.com/4ecb6cf5-c748-4fb7-a835-a95ec330cd4b/0_3_384_N.webp" }, 
@@ -125,9 +125,9 @@
             { "name": "street_photography",   "caption": "街头摄影", "type":"photo", "alias": "", "image": "https://cdn.midjourney.com/0021da50-87c5-43cd-9a4e-32d057ee71a6/0_3_384_N.webp" },
 
             { "name": "cinematic",   "caption": "电影照片", "type":"photo", "alias": "film photograph,movie style", "image":"https://cdn.midjourney.com/60027e2b-5e07-4819-9d4f-e0e794288502/0_2_384_N.webp"  },
-            { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104628756573859930/felipe77768_sci-fi_cyberpunk_city_market_cars_flying_cars_signs_e38265b5-2d73-498c-a5d1-9bbb8173e263.png?ex=67128f72&is=67113df2&hm=ddaa7bdadd646c15ec6b7093b2b6b0d4a663fad78d66af02536ff018e6e6bbc2&" },
+            { "name": "photorealism",   "caption": "照相现实主义", "type":"photo", "alias": "photoreal,photorealist,photorealistic", "image": "https://cdn.midjourney.com/e38265b5-2d73-498c-a5d1-9bbb8173e263/0_0.png" },
           
-            { "name": "hyperrealistic",   "caption": "超写实主义", "type":"photo", "alias": "hyperreal,ultrareal,ultrarealistic", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104594313071054869/Arrietty_if_Mary_Cassatt_and_Beatrix_Potter_created_a_baby_capy_9ccd51ae-3376-479d-858d-a4eba89e94ca.png"  },
+            { "name": "hyperrealistic",   "caption": "超写实主义", "type":"photo", "alias": "hyperreal,ultrareal,ultrarealistic", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104594313071054869/Arrietty_if_Mary_Cassatt_and_Beatrix_Potter_created_a_baby_capy_9ccd51ae-3376-479d-858d-a4eba89e94ca.png?ex=67126f5e&is=67111dde&hm=d72307bc9cbbb34d005346c854357bdab48a33223e53d670adb818255ce5a64e&"  },
            
             { "name": "retro",   "caption": "复古", "type":"photo", "alias": "retro style", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1089664859504902225/Ivann_retro_full-length_photo_of_retro_dance_rockabilly_style_6_a4994bf0-ff40-4a79-b9c6-9ea606cb457f.png" }
             
