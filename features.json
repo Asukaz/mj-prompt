@@ -129,7 +129,7 @@
           
             { "name": "hyperrealistic",   "caption": "超写实主义", "type":"photo", "alias": "hyperreal,ultrareal,ultrarealistic", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104594313071054869/Arrietty_if_Mary_Cassatt_and_Beatrix_Potter_created_a_baby_capy_9ccd51ae-3376-479d-858d-a4eba89e94ca.png?ex=67126f5e&is=67111dde&hm=d72307bc9cbbb34d005346c854357bdab48a33223e53d670adb818255ce5a64e&"  },
            
-            { "name": "retro",   "caption": "复古", "type":"photo", "alias": "retro style", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1089664859504902225/Ivann_retro_full-length_photo_of_retro_dance_rockabilly_style_6_a4994bf0-ff40-4a79-b9c6-9ea606cb457f.png" }
+            { "name": "retro",   "caption": "复古", "type":"photo", "alias": "retro style", "image": "https://cdn.midjourney.com/a4994bf0-ff40-4a79-b9c6-9ea606cb457f/0_0.png" }
             
         ],
         "new_image_style": [
@@ -139,15 +139,15 @@
             { "name": "steampunk", "caption": "蒸汽朋克", "type":"painting_style", "alias": "" ,"image": "https://cdn.midjourney.com/e0b8fd64-ebbc-4f54-8f97-b67c9ac6e622/0_1_384_N.webp" },
 
             { "name": "surreal", "caption": "超现实主义", "type":"painting_style", "alias": "surrealism,surrealistic" ,"image": "https://cdn.midjourney.com/828cf334-89b7-4a28-9c9a-4e1f4b2c6aee/0_0_384_N.webp" },
-            { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.discordapp.com/attachments/1008571102328541215/1094808688927182878/JurassicEl_minimalistic_interior_entry_with_decorative_moldings_79fd4a86-c561-4128-8d2f-efc20e2680eb.png" },
-            { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png" },
+            { "name": "minimalistic", "caption": "极简主义", "type":"painting_style", "alias": "minimalism,minimalist" ,"image": "https://cdn.midjourney.com/79fd4a86-c561-4128-8d2f-efc20e2680eb/0_0.png" },
+            { "name": "technology",  "caption": "科技",       "type":"new_image_style", "alias": "" , "image":"https://cdn.discordapp.com/attachments/1008571225309728878/1104416898952740864/thiemo_community_crypto_working_together_building_future_money__2ddfe417-d79c-454d-a610-4df9c3ae4ea2.png?ex=671272e3&is=67112163&hm=d4db7470e6a48dda73c9885a700a393e545f695795c2924f1ac534c815279b17&" },
            
-            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/989274745495240734/1111259690198913154/Sandalphon_depict_a_futuristic_house_that_uses_sacred_geometry__78f6b940-b6be-44de-890c-33f627e2446d.png" },
+            { "name": "futuristic",  "caption": "未来主义",          "type":"new_image_style", "alias": "futurism" , "image":"https://cdn.discordapp.com/attachments/989274745495240734/1111259690198913154/Sandalphon_depict_a_futuristic_house_that_uses_sacred_geometry__78f6b940-b6be-44de-890c-33f627e2446d.png?ex=67124b3c&is=6710f9bc&hm=580a84eb0b498d3610779d823744a9233f2632b2178ac5029b6449c2cd7e10d8&" },
 
-            { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png" },
-            { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png" } ,
+            { "name": "psychedelic",  "caption": "迷幻",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/945077390839787570/1104401594885345350/mutablehurdle_an_abstract_thick_impasto_painting_in_the_sky_wit_18a0ca3b-e7bd-48bb-abff-5897747a830c.png?ex=671264a3&is=67111323&hm=71cd64e54ef7b10166d4491fc50e09446b21f0cbd8bbd818a9b659b3d8cf2a0b&" },
+            { "name": "op_art",  "caption": "欧普艺术",           "type":"new_image_style", "alias": "", "image": "https://cdn.discordapp.com/attachments/953413844183683082/1105252315084107796/emptysea_surrealist_op_art_human_body_geometric_grids_lines_3D__918b4d5d-bbb1-415a-94a0-ad46926a0b35.png?ex=6712312e&is=6710dfae&hm=b42ce54d61be82874a68d849e4e34e3daecd7ee949adc551664b01319c1ff5e4&" } ,
 
-            { "name": "blob_art",  "caption": "泡泡艺术",           "type":"new_image_style", "alias": "", "image":"https://cdn.discordapp.com/attachments/952712667498422272/1095331573852819496/nurbikee_pink_blob_character_e5c3fe6a-a097-4fce-9bfe-07ff0644faa2.png" }
+            { "name": "blob_art",  "caption": "泡泡艺术",           "type":"new_image_style", "alias": "", "image":"https://cdn.midjourney.com/e5c3fe6a-a097-4fce-9bfe-07ff0644faa2/0_0.png" }
             
         
         ],
@@ -164,7 +164,7 @@
 
             { "name": "marvel_comic_book", "caption": "漫威漫画书",  "type":"cartoon", "alias": "marvel comic book" , "image":"https://cdn.midjourney.com/8884edf9-8d8a-46ef-8732-2d0c16ab9098/0_0_640_N.webp" },
 
-            { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png" },
+            { "name": "flat_style", "caption": "平面风格", "type":"painting_style", "alias": "flat painting" , "image":"https://cdn.discordapp.com/attachments/995431233121161246/1111269464005156914/mar_kse_dog_full_height_on_white_background_animation_style_cut_b1d66287-3113-42a1-8792-dd86a8f2c466.png?ex=67125456&is=671102d6&hm=25f3f6a7803f5b844862b3cb3721576737d9b98335ba2301ee80daec79853071&" },
             
             { "name": "anime_style",     "caption": "日本动漫",    "type":"cartoon", "alias": "anime,Japanese cartoon style", "image":"https://cdn.midjourney.com/9d4a87e1-ae7d-4017-b39f-866d195b4280/0_1_640_N.webp"  },
             { "name": "manga_style",     "caption": "日本漫画书",  "type":"cartoon", "alias": "manga style" , "image":"https://cdn.midjourney.com/21882040-10e3-42d9-8301-c6fbba31088b/0_2_640_N.webp" },
@@ -181,11 +181,11 @@
             
             { "name": "digital_illustration", "caption": "数字插画",     "type":"illustration", "alias":"", "image": "https://cdn.midjourney.com/283d084f-856d-49eb-b1f0-51887a9e768b/0_2_384_N.webp"},
 
-            { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png" },
+            { "name": "vector_illustration", "caption": "矢量插画",     "type":"illustration", "alias": "vector illustration style","image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104426668535324803/Rehan_Anand_A_vector_illustration_of_reflecting_the_Vision_and__684d03fd-07aa-498c-8ebf-9929e95eb2e7.png?ex=67127bfd&is=67112a7d&hm=9237826b5675629d56a456d425928d85dbc0b74384754ea7a511b3bab1d84621&" },
 
-            { "name": "scientific_illustration", "caption": "科学插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104703363699974214/Warden1999_Generate_a_scientific_illustration_of_bulky_tumor_ti_2a0c2fb9-2942-4239-a249-7e4ae41d1e62.png"},
+            { "name": "scientific_illustration", "caption": "科学插画",     "type":"illustration", "alias":"", "image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104703363699974214/Warden1999_Generate_a_scientific_illustration_of_bulky_tumor_ti_2a0c2fb9-2942-4239-a249-7e4ae41d1e62.png?ex=67122c2e&is=6710daae&hm=fd32f67dbc34813769007e95ba2ec9d0543806cdf16bd30f60ec8f3c8247b583&"},
 
-            { "name": "cartoon_illustration", "caption": "卡通插画",     "type":"illustration", "alias":"", "image":" https://cdn.discordapp.com/attachments/1054162799988834314/1104387014666768426/mangosago_vibrant_old_people_in_nursing_homegreen_plants_are_ev_dcafd6b5-7310-4489-b576-d31f92991bbb.png" }
+            { "name": "cartoon_illustration", "caption": "卡通插画",     "type":"illustration", "alias":"", "image":"https://cdn.discordapp.com/attachments/1054162799988834314/1104387014666768426/mangosago_vibrant_old_people_in_nursing_homegreen_plants_are_ev_dcafd6b5-7310-4489-b576-d31f92991bbb.png?ex=6712570e&is=6711058e&hm=a5d03ce5e1d7c906e40389fd86367859ca81d8eb1f67de05078f4ec213be79f4&" }
            
           ],
         "painting_form": [
@@ -202,20 +202,20 @@
 
             { "name": "line_drawing",  "caption": "线稿", "type":"painting_form", "alias": "","image": "https://cdn.midjourney.com/f5d4b523-a410-41e2-8225-b6fe7ce6c4e8/0_0_384_N.webp" },
 
-            { "name": "collage",  "caption": "拼接画", "type":"painting_form", "alias": "abstract collage","image":  "https://cdn.discordapp.com/attachments/1072899954525356072/1107047092951724162/loljoi_simple_cartoon_flower_and_leaf_collage_with_transparent__b79df701-85fe-4274-a518-e48157b438b4.png" },
+            { "name": "collage",  "caption": "拼接画", "type":"painting_form", "alias": "abstract collage","image":  "https://cdn.discordapp.com/attachments/1072899954525356072/1107047092951724162/loljoi_simple_cartoon_flower_and_leaf_collage_with_transparent__b79df701-85fe-4274-a518-e48157b438b4.png?ex=67122132&is=6710cfb2&hm=764fc14d410c835495b71f8f3fb5616b0164ff1f9757b4f6763fd8f3279fda44&" },
             
 
-            { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104565070509383761/HUFO_Create_a_graffiti_artwork_using_spray_paint_that_includes__ad4d725f-2216-45f4-b3c7-81b19a070b64.png" },
-            { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104424249952845874/Rehan_Anand_a_vector_illustration_art_of_people_practicing_Trau_4c21a5cf-6a20-413d-8efe-842eabc3f422.png" },
-            { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png" },
-            { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png" },
-            { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png" },
+            { "name": "graffiti",        "caption": "涂鸦",  "type":"painting_form", "alias": "graffiti style"  ,"image": "https://cdn.midjourney.com/ad4d725f-2216-45f4-b3c7-81b19a070b64/0_0.png" },
+            { "name": "vector_art",     "caption": "矢量线图",  "type":"painting_form", "alias": "vector lines，vector art style"  ,"image": "https://cdn.discordapp.com/attachments/1014464667017555998/1104424249952845874/Rehan_Anand_a_vector_illustration_art_of_people_practicing_Trau_4c21a5cf-6a20-413d-8efe-842eabc3f422.png?ex=671279bc&is=6711283c&hm=a6aeedecc64c001ea95f6b6bdc49e146c1bcf2a0c4be61b88ef21a03f4329ec2&" },
+            { "name": "clipart",        "caption": "剪贴画",  "type":"painting_form", "alias": "cutout"  ,"image": "https://cdn.discordapp.com/attachments/1008571159043903509/1104063610331869394/midjourney_summer_cocktails_clipart_colorful_single_design_4k_h_6d19559c-2afa-424e-bf3b-fd38ff372972.png?ex=67127b5d&is=671129dd&hm=7baf93b1ca96f3fe46d3d232d9096ac2ae77a5345d5aab2171b6d2b2ab0e52e5&" },
+            { "name": "acrylic_painting",        "caption": "丙烯画",  "type":"painting_form", "alias": "acrylic"  ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106468717765853194/kingdomcreation_Create_a_vibrant_mixed-media_artwork_inspired_b_a8c2fe17-229d-4b89-bfa8-662ab4050516.png?ex=6712a98b&is=6711580b&hm=c8474c144fa8b7783337dce8a46ed64beca29d67326e8fdb1186d5b50456a4af&" },
+            { "name": "color_book_style",        "caption": "彩色书",  "type":"painting_form", "alias": "color book"  ,"image":"https://cdn.discordapp.com/attachments/1008571029804810332/1107091395354828800/Antolya_butterfly_mandala_colour_book_style_ad38a134-ad8b-4728-b204-528307f3d63f.png?ex=67124a75&is=6710f8f5&hm=9b53f920d73cf9108af27f25e8d6d9b8e48ba3375133f614830026afe1f4688a&" },
             
            
             
-            { "name": "ASCII_art",        "caption": "ASCII艺术",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1055259701408972911/NicoBellic_ASCII-Art_of_a_man_with_dreadlocks_european_with_bea_87e4267b-f795-4e53-983f-6577c6e222a0.png" },
+            { "name": "ASCII_art",        "caption": "ASCII艺术",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.midjourney.com/87e4267b-f795-4e53-983f-6577c6e222a0/0_0.png" },
         
-            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png" }
+            { "name": "Chinese_painting", "caption": "中国画",  "type":"painting_form", "alias": ""  ,"image": "https://cdn.discordapp.com/attachments/1054162799988834314/1104359303508414464/AlexLee_Generate_a_Chinese_gongbi_painting_of_the_scene_from_Dr_38660657-2f68-44e7-8e49-cd9884552c3a.png?ex=67123d3f&is=6710ebbf&hm=1918be1d0960554119c9b6f14b5ad885a278b74e2e19f7e30613050bdc40e97c&" }
         ],
         "painting_style" : [
         
@@ -230,15 +230,15 @@
             { "name": "neo-classicism", "caption": "新古典主义", "type":"painting_style", "alias": "classical" ,"image": "https://cdn.midjourney.com/8680d9d1-3e53-4572-9c3f-04f37a31e2d9/0_2_640_N.webp"},
 
 
-            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png"},
+            { "name": "renaissance_style ", "caption": "文艺复兴", "type":"painting_style", "alias": "" ,"image":"https://cdn.discordapp.com/attachments/1021189063262351390/1104592502381621338/humtydumptytargaryen_renaissance_painting_of_an_orange_and_blac_7ada658c-9560-458e-b459-2cfda844c97b.png?ex=67126dae&is=67111c2e&hm=3dcd9866559bf59a1aa5913b26f8bb88958658c35cc76c31ae11908f0079f761&"},
          
-            { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png" },
+            { "name": "pop_art", "caption": "流行艺术", "type":"painting_style", "alias": "" ,"image": "https://cdn.discordapp.com/attachments/1072899954525356072/1104425847533879366/ggregora_elefante_pop_art_4k__cinematic_v5_47_c38ddc76-43e3-4f9b-971a-a346e056f1fd.png?ex=67127b39&is=671129b9&hm=461f6d6654640781d4cb5ed59b5411bd409572fd722544cad35f72f46e5cbbfa&" },
           
-            { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png" },
+            { "name": "expressionism", "caption": "表现主义", "type":"painting_style", "alias": "expressionist,expressionistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1106532523825188944/404_Not_Found__pro_hart_abstract_expressionism_hypermaximalist_b43713fc-9595-4f81-a51a-d0837239b701.png?ex=67123c38&is=6710eab8&hm=d0a6adb7e27b518ceba89a8f3d1cdcdb8eb9c0833fa8b920d10ccfb13cb38348&" },
 
             { "name": "abstract_expressionism", "caption": "抽象表现主义", "type":"painting_style", "alias": "","image":"https://cdn.midjourney.com/aa374317-4d15-4d5f-b892-0892b3dfc472/0_1.png" },
 
-            { "name": "cubism", "caption": "立体主义", "type":"painting_style", "alias": "cubist,cubistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1107209231997878332/coffeebuffed_trompe_loeil_orchid_cubism_origami_68741bf4-af04-42b0-97d0-d1502174e6dd.png" }
+            { "name": "cubism", "caption": "立体主义", "type":"painting_style", "alias": "cubist,cubistic" ,"image": "https://cdn.discordapp.com/attachments/945077390839787570/1107209231997878332/coffeebuffed_trompe_loeil_orchid_cubism_origami_68741bf4-af04-42b0-97d0-d1502174e6dd.png?ex=6712b833&is=671166b3&hm=f1e4113e01c859000031822eb5ea2544c8825fff5d607eb4df673815f58e7f7f&" }
             
         ],
         
@@ -251,13 +251,13 @@
 
             { "name": "lego",   "caption": "乐高", "type":"art_form", "alias": "lego art" ,"image": "https://cdn.midjourney.com/6a75206d-ba52-4f12-a17a-a76be484c09c/0_3_640_N.webp" },
             
-            { "name": "origami",   "caption": "折纸", "type":"art_form", "alias": "paper origami" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106988879128580106/Fishcake_a_full_size_panda_made_from_paper_origami._Plain_backg_6720fbd1-c5df-4b0d-a967-d8007743e33d.png" },
-            { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png" },
+            { "name": "origami",   "caption": "折纸", "type":"art_form", "alias": "paper origami" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1106988879128580106/Fishcake_a_full_size_panda_made_from_paper_origami._Plain_backg_6720fbd1-c5df-4b0d-a967-d8007743e33d.png?ex=671293bb&is=6711423b&hm=6d5d1c597daed32e402dc487f5fd25c6bee0bbdfc060049263f4bc803cc1de7f&" },
+            { "name": "engraving",   "caption": "雕刻画", "type":"art_form", "alias": "engraving art" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107084121269874768/Antolya_Chinese_ink_engraving_of_a_Shiba_Inu_92b0c207-c123-4d68-bbd2-4571dd7a0593.png?ex=671243af&is=6710f22f&hm=6f036403e7f4aabcbe0174340af3137794d8049fe25a15e868941cb1d98a8782&" },
            
-            { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png" },
+            { "name": "etching",   "caption": "蚀刻画", "type":"art_form", "alias": "etching art" ,"image": "https://cdn.discordapp.com/attachments/1081998137780076605/1106868235497918514/ozMax_holographic_universe_irish_pub_tinfoil_etching_made_of_st_3d9f1277-8406-402e-89d1-3146268082aa.png?ex=6712235f&is=6710d1df&hm=973e3fa764c44810e3e249a6197ffc525845cee31eb2763cda8d44c22b70b05b&" },
            
 
-            { "name": "miniature",   "caption": "微缩模型", "type":"art_form", "alias": "miniature art" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1106833515313635361/Sexy_Vegan_Madison_Wisconsin_capitol_building_tilt-shift_miniat_4408815f-4f52-46c8-9428-3bb671376230.png" },
+            { "name": "miniature",   "caption": "微缩模型", "type":"art_form", "alias": "miniature art" ,"image": "https://cdn.discordapp.com/attachments/953413775149633536/1106833515313635361/Sexy_Vegan_Madison_Wisconsin_capitol_building_tilt-shift_miniat_4408815f-4f52-46c8-9428-3bb671376230.png?ex=6712abca&is=67115a4a&hm=e0a77ca1f708ece49a9f3f8918bc910767fa241c11f623ba2dfdef63bd4f719b&" },
             
             { "name": "patchwork",   "caption": "拼布", "type":"art_form", "alias": "patchwork" ,"image": "https://cdn.midjourney.com/e4a9a208-6275-4735-8bd5-3eee0c4649eb/0_3_640_N.webp" }
         ]
@@ -349,8 +349,8 @@
             { "name": "wide_angle",      "caption": "广角" ,   "description":"" ,  "image": ""  },
             { "name": "ultra_wide_angle","caption": "超广角" ,  "alias":"extreme wide angle,super wide angle","image": ""},
             { "name": "standard_lens",   "caption": "标准镜头", "description":"" ,  "image": ""  },
-            { "name": "macro",        "caption": "微距" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png"  },
-            { "name": "super_macro",  "caption": "" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png"  },
+            { "name": "macro",        "caption": "微距" , "description":"" , "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1107010899664982110/karim.elhamri_A_stunning_macro_photograph_of_a_rare_vibrant_flo_74a79432-c4e4-4fa8-9a5a-096bb28893f7.png?ex=6712a83d&is=671156bd&hm=8d4b34c5202b0878dc8d1bd46e5fc77f81ddb7ab3f8642ac410b1bdf8a7285f8&"  },
+            { "name": "super_macro",  "caption": "" , "description":"" ,  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107618010979635200/taez_super_macroawesome_insectsuper_detail8k_high_resolution_bo_2e22a2a5-52fa-41d5-ab63-cb9d22532566.png?ex=67123aa8&is=6710e928&hm=f5b0216e4e8b1765f8a558c7cfe834dcb6a919f41220bb9d65dc34f61c31a066&"  },
             { "name": "narrow_angle", "caption": "" , "description":"" ,  "image": ""  },
             { "name": "medium_angle", "caption": "" , "description":"" ,  "image": ""  },
             { "name": "fisheye", "caption": "fisheye" , "description":"" ,  "image": ""  },  
@@ -388,8 +388,8 @@
     },
     "control" : {
         "featureTypes" : [
-            { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png"},
-            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.discordapp.com/attachments/1008571029804810332/1107857377211994132/alister525_Vibrant_Voyages_An_abstract_artwork_that_takes_the_v_b0b182b2-3af0-4f82-862f-9803f1a6580a.png"},
+            { "name": "background",  "caption":"背景",  "description":"" ,"image": "https://cdn.midjourney.com/621b2819-a114-4c18-ab0f-747d1637a6f0/0_0.png"},
+            { "name": "color_theme", "caption":"颜色方案", "description":"" ,"image": "https://cdn.midjourney.com/b0b182b2-3af0-4f82-862f-9803f1a6580a/0_0.png"},
             { "name": "detailed",  "caption": "细节度",  "description":"How much to render the details" ,"image": "no"},
             { "name": "resolution","caption": "清晰度", "description":"Image resolution in pixels" ,"image": "no"},
 
@@ -422,23 +422,23 @@
             { "name": "volumetric_lighting","caption": "立体光" }
          ], 
          "background" :[
-            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.discordapp.com/attachments/1021189063262351390/1107850332253462580/Maura_a_quill_feather_pen_LOGO_LOGOS_textile_logo_vector_logo_c_35ee96b5-1545-48ad-a1b6-a3e5d4aca841.png" },
-            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png" },
-            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.discordapp.com/attachments/1008571240858009620/1106917278047547482/A_baby_girl_is_lying_in_a_crib_and_hugging_a_teddy_be_914937d5-9d39-48ab-96e6-6a094a9ad84b.png" },
-            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png" },
-            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png" },
-            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png" }
+            { "name": "white_background",    "caption": "white background",  "image": "https://cdn.midjourney.com/35ee96b5-1545-48ad-a1b6-a3e5d4aca841/0_0.png" },
+            { "name": "black_background",    "caption": "black background",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106611100235079820/Dooly21_clothing_brand_logo_black_lion_no_background_flat_86cf476b-52c7-45d2-8c2c-c729c014961c.png?ex=67128566&is=671133e6&hm=dcc3fdc3c56949a4f60f100524efdebc64cc42b667a4cb4e68f9ae3470110fdd&" },
+            { "name": "flat_background",     "caption": "flat background",  "image": "https://cdn.midjourney.com/914937d5-9d39-48ab-96e6-6a094a9ad84b/0_0.png" },
+            { "name": "gradient_background", "caption": "gradient background",  "image": "https://cdn.discordapp.com/attachments/1077479183611088916/1105291772063662142/fernandolopeskk_purple_gradient_background_621b2819-a114-4c18-ab0f-747d1637a6f0.png?ex=671255ed&is=6711046d&hm=de6bfbefe1a169c52163f81826327f422b2e5a0bbe940f3385806f2a69359eae&" },
+            { "name": "blurred_background", "caption": "blurred background",  "image": "https://cdn.discordapp.com/attachments/1008571171052208220/1107644335383658616/petripenula_young_woman_holding_and_looking_at_the_smartphone_s_ac63bba4-2e9f-4879-afcf-9458056068c4.png?ex=6712532c&is=671101ac&hm=25e1a7d0e50733720c8edd9e1d31e1c42288860d1d0aa004514079b054bef373&" },
+            { "name": "colorful_background", "caption": "colorful background",  "image":  "https://cdn.discordapp.com/attachments/1077479183611088916/1105574781081882634/mr_pawkz_cartoon_caricature_big_beard_big_eyes_stop_motion_clay_26522106-514f-4abd-8d8f-a8550b2bac10.png?ex=6712b4c0&is=67116340&hm=a2783fbcf5f06102ed3cddf878f4d9f46689af58cb3aa154cb8413579561c791&" }
         ],
         "color_theme" : [
-            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png" },
-            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.discordapp.com/attachments/1008571029804810332/1098071542816047145/LUIS_BENAVENTE_tote_bag_Plain_gray_color_8k_resolution_realisti_816314aa-7533-4c5a-8594-d4903d320ad5.png" },
-            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png" }, 
-            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png" },
+            { "name": "light_colors",   "caption": "浅色",  "image": "https://cdn.discordapp.com/attachments/1099990826941157478/1107697623567183962/basinskimaxim_watercolor_Fennel_vegetable_clipart_flat_style_no_543197f3-15b2-4acc-b21e-caf0fda04410.png?ex=671284cd&is=6711334d&hm=55da5db7489b8ef38ff62aa8384147d684ad6d45c12face75f2d1a5cf75eb4ba&" },
+            { "name": "flat_colors",     "caption": "素色", "alias":"plain colors" , "image": "https://cdn.midjourney.com/816314aa-7533-4c5a-8594-d4903d320ad5/0_0.png" },
+            { "name": "pastel_colors",     "caption": "柔色",  "image": "https://cdn.discordapp.com/attachments/968967076100325496/1107815361333698671/Adora_Aardman_animation_character_claymation_ceramic_Clay_Grote_1ad241e2-7adc-44b0-950d-4ebabe58120e.png?ex=671249b4&is=6710f834&hm=da12e592ebb9a11f3c941330354a00857fd13292dc326fa85fa6f34698b9bd1c&" }, 
+            { "name": "colourful",    "caption": "丰富色彩",  "image": "https://cdn.discordapp.com/attachments/945077390839787570/1105639435523072081/Sly_Fox_Burmese_cat_in_a_colorful_retro_scene_paper_quilling_0ba125e8-99af-407d-8270-d8423cdda855.png?ex=67124837&is=6710f6b7&hm=325a7389507e132a0828dd4fcd73d9a90811d514150235377a4bb66597ec76bb&" },
            
-            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png" },
-            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png" },
-            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png" },
-            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.discordapp.com/attachments/952712667498422272/1079681217579995186/giorgio.verdiani_the_drivers_are_coming_in_Rabat_with_some_dela_780614e3-a1bb-4572-9761-b4f482eb8ef9.png" }
+            { "name": "vibrant_colors",  "caption": "生动色彩",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107734914100633631/dilol__sifar_An_abstract_expressionist_illustration_that_captur_f418840e-12d7-4c3d-acea-380a260701c6.png?ex=6712a788&is=67115608&hm=9bfd00cf3a375124dc3ced5272dd8537ed95ef00f6403e10a5f32d0cbec7004f&" },
+            { "name": "retro_colors",  "caption": "复古色",  "image": "https://cdn.discordapp.com/attachments/1072899954525356072/1106615255666274314/jennymeagan_tshirt_design_retro_colorstough_and_muscular_young__b2afa99a-d532-40b5-98f0-185d9f1eb2f7.png?ex=67128944&is=671137c4&hm=0fd7cf108810c948d21054a2cb13902483268077004088135700ba09f8eb72eb&" },
+            { "name": "muted_colors",  "caption": "哑色",  "image": "https://cdn.discordapp.com/attachments/953413844183683082/1107861176521605221/mesanger_abstract_painted_feather_texture_layers_muted_colors_0409464e-98c3-4705-a2ff-3e0f3e712eef.png?ex=6712745f&is=671122df&hm=f78fdc74fe276ea20c198f82918fc387c3a63c41b50ffe292e60939b1b19ca85&" },
+            { "name": "black_and_white",  "caption": "黑白色",  "image": "https://cdn.midjourney.com/780614e3-a1bb-4572-9761-b4f482eb8ef9/0_0.png" }
         ],
          "engine" : [
             { "name": "octane_render",   "caption": "octane render" },
